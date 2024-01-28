@@ -1,8 +1,22 @@
-- 👋 Hi, I’m Nirosha
-- 🌱 I’m currently learning C and Java
-- 📫 How to reach me nishipalpala@gmail.com
+# Hi there! 👋 I'm Nirosha.
 
-<!---
-NiroshaPerera/NiroshaPerera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 I'm a passionate learner and currently expanding my skills in:
+
+- Java
+- C
+- HTML
+- CSS
+- JavaScript
+- C#
+- XML
+
+🚀 Here's a bit about my learning journey:
+
+- 🎓 I've mastered Java, C, HTML, CSS, and JavaScript.
+- 🔍 Currently diving deep into C# and XML.
+
+📫 How to reach me:
+
+- 📧 Email: nishipalpala@gmail.com
+
+Let's connect and code together! 💻✨
