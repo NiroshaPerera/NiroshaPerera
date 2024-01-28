@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Nirosha.
 
-🌱 I'm a passionate learner and currently expanding my skills in:
+🌱 I'm a passionate learner and currently honing my skills in:
 
 - Java
 - C
@@ -12,8 +12,8 @@
 
 🚀 Here's a bit about my learning journey:
 
-- 🎓 I've mastered Java, C, HTML, CSS, and JavaScript.
-- 🔍 Currently diving deep into C# and XML.
+- 👩‍💻 Proficient in Java, C, HTML, CSS, and JavaScript.
+- 🔍 Currently exploring C# and XML.
 
 📫 How to reach me:
 
