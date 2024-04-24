@@ -9,6 +9,7 @@
 - JavaScript
 - C#
 - XML
+- Dart
 
 🚀 Here's a bit about my learning journey:
 
